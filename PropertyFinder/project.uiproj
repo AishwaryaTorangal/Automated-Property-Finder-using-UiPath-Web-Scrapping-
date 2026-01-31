@@ -1,0 +1,6 @@
+{
+  "Name": "PropertyFinder",
+  "ProjectType": "Process",
+  "Description": "Rpa project",
+  "MainFile": "Main.xaml"
+}
