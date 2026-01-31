@@ -43,6 +43,10 @@ This automation is suitable for:
 * Automating repetitive property search tasks
 * Users seeking quick insights into property pricing trends
 
+## Output
+<img width="533" height="875" alt="image" src="https://github.com/user-attachments/assets/65070462-de16-40d7-9cae-e0c1098f04f0" />
+
+
 ## Disclaimer
 This project is intended for educational and automation practice purposes. Web scraping should always comply with the terms and conditions of the target websites.
 
